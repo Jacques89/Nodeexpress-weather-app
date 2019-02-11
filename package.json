@@ -15,7 +15,7 @@
     "HTML",
     "CSS"
   ],
-  "author": "Jacques Nalletamby",
+  "author": "Jacques",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
